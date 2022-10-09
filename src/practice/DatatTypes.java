@@ -59,6 +59,13 @@ public class DatatTypes {
 		
 		
 		
+		// 2. Floating  - It contains pont values 
+		// a) float
+		float f =2.4;
+		long l1
+		System.out.println(f);
+		
+		
 				
 	}
 
