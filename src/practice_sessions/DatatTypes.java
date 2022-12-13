@@ -1,4 +1,4 @@
-package practice;
+package practice_sessions;
 
 public class DatatTypes {
 	public static void main(String[] args) {
@@ -61,10 +61,10 @@ public class DatatTypes {
 		
 		// 2. Floating  - It contains pont values 
 		// a) float
-		float f =2.4;
-		long l1
+		float f =2.4f;
+		long l1=2652255l;
 		System.out.println(f);
-		
+		System.out.println(l1);
 		
 				
 	}

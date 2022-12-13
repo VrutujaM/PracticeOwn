@@ -1,4 +1,4 @@
-package practice;
+package practice_sessions;
 
 public class Variable {
 	public static void main(String[] args) {

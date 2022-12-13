@@ -1,4 +1,4 @@
-package practice;
+package practice_sessions;
 
 public class FirtClass {
 	
